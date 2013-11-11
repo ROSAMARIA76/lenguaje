@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>tbody,...</title>
+</head>
+<body>
+	<table border= "1" style="width:50%;">
+		<caption>Tabla de prueba</caption>
+		<thead>
+		<tfoot>
+			<tr>
+			<td>&nbsp;</td>	
+			<td>Media:</td>	
+			<td>19.5</td>		
+
+		</tr>
+		</tfoot>
+	
+
+			<tr>
+				<th>Alumnos</th>
+				<th>DNI</th>
+				<th colspan= "2">Nombre y Edad</th>
+			
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>34567</th>
+				<th>Pepe</th>
+				<th>20</th>
+
+			</tr>
+
+			<tr>
+				<th>2245678</th>
+				<th>Juan</th>
+				<th>19</th>
+
+			</tr>
+
+		
+		
+	</table>
+
+</body>
+</html>
